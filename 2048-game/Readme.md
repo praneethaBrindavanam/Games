@@ -1,3 +1,4 @@
+```
 # 🎮 2048 Game
 
 A simple and fun implementation of the classic **2048 puzzle game**, built using **HTML, CSS, and JavaScript**.
@@ -36,12 +37,10 @@ Play it live here:
 
 ## 📁 Folder Structure
 
+```plaintext
 2048-game/
-
-
 ├── index.html
 └── README.md
-
 
 ---
 
@@ -78,7 +77,4 @@ Inspired by [Gabriele Cirulli’s 2048](https://play2048.co/).
 
 ---
 
-## 🙋‍♀️ Author
-
-Made with ❤️ by **[Praneetha Brindavanam](https://github.com/praneethaBrindavanam)**
 
